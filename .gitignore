@@ -15,7 +15,14 @@
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
+
+# Build
+dist/
 
 # Go workspace file
 go.work
+
+# IDE 
+.idea/
+.vscode/
